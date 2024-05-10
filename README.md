@@ -21,12 +21,6 @@ Urban Mobility Detection is a project aimed at analyzing urban mobility patterns
    - Install dependencies using `pip install -r requirements.txt`.
    - Run the FastAPI server with `uvicorn main:app --reload`.
    
-3. **Analysis**:
-   - Clone the repository.
-   - Navigate to the `analysis` directory.
-   - Install dependencies using `pip install -r requirements.txt`.
-   - Execute the analysis scripts to perform data analysis and visualize results.
-
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
